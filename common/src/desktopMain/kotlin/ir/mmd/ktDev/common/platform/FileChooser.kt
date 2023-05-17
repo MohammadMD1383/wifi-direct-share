@@ -1,12 +1,10 @@
 package ir.mmd.ktDev.common.platform
 
-import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember
 import com.formdev.flatlaf.FlatDarkLaf
 import com.formdev.flatlaf.FlatLightLaf
 import ir.mmd.ktDev.common.FileModel
-import ir.mmd.ktDev.common.ui.theme.DarkColorScheme
 import ir.mmd.ktDev.common.ui.theme.LocalDarkTheme
 import javax.swing.JFileChooser
 
